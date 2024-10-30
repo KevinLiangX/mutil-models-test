@@ -1,0 +1,15 @@
+{
+  "e375823064c3e72dbb99316404e170e6fa50bacb2c6bbe4daa3c744e3073ec94": {
+    "filename": "TAGIV.pdf",
+    "file_path": "/home/KevinLiangX/Codes/mult-rag/uploads/TAGIV.pdf",
+    "size": 2644286,
+    "upload_time": "2024-10-30T06:05:48.042993",
+    "last_processed": "2024-10-30T06:22:24.636483",
+    "processing_stats": {
+      "text_elements": 49,
+      "table_elements": 4,
+      "image_elements": 14,
+      "image_summaries": 14
+    }
+  }
+}
